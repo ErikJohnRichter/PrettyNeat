@@ -288,10 +288,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-                    <span class="copyright">Made with <i class="fa fa-heart"></i> in Milwaukee&nbsp&nbsp|&nbsp&nbsp&copy PrettyNeat 2015</span>
+                    <span class="copyright">Made with <i class="fa fa-heart"></i> in Milwaukee&nbsp&nbsp|&nbsp&nbsp&copy PrettyNeat 2016</span>
                 </div>
                 <div class="col-md-3 text-center contactLinks">
-                    <span class="copyright"><a href="www.twitter.com/thisisprettyneat" class="contactLink1" style="text-decoration: none;"><i class="fa fa-twitter fa-2x"></i></a>&nbsp&nbsp&nbsp&nbsp<a href="mailto:hello@thisisprettyneat.com?subject=WebsiteContact" class="contactLink2" style="text-decoration: none;"><i class="fa fa-envelope fa-2x"></i></a></span>
+                    <span class="copyright"><a href="www.twitter.com/thisisprettyneat" class="contactLink1" style="text-decoration: none;"><i class="fa fa-twitter fa-2x"></i></a>&nbsp&nbsp&nbsp&nbsp<a href="mailto:helloworld@codingerik.com?subject=WebsiteContact" class="contactLink2" style="text-decoration: none;"><i class="fa fa-envelope fa-2x"></i></a></span>
                 </div>
             </div>
         </div>
